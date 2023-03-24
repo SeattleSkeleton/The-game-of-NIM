@@ -1,5 +1,4 @@
 package TheGameofMasterNIM;
-import java.util.Random;
 
 
 public class MasterNIM implements Human {
