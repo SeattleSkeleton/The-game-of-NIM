@@ -47,7 +47,7 @@ public class Player implements Human {
         String input;
 
         boolean invalidTake;
-        //prompts the user for how many marbles to take from pile
+        //prompts the user for how many coins to take from pile
         //user then enters his/her desired amount
         input = JOptionPane.showInputDialog("Enter the amount of"
                 + " coins you wish to take " + this.getName() + "!");
